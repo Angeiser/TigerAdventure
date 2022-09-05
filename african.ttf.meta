@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c1f010c07f2cf0248b1ae786d90da466
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - African
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97e60b2871c8819459ec2077e9452546, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
